@@ -1,0 +1,14 @@
+[22:39:09] [Client thread/INFO]: Setting user: Blaze Egor
+[22:39:11] [Client thread/WARN]: Skipping bad option: lastServer:
+[22:39:11] [Client thread/INFO]: LWJGL Version: 3.2.1 build 12
+[22:39:13] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[22:39:13] [Client thread/INFO]: Built for minecraft version 1.14
+[22:39:14] [Realms Notification Availability checker #1/ERROR]: Realms error code: 400 message: 
+[22:39:20] [Client thread/INFO]: OpenAL initialized.
+[22:39:20] [Client thread/INFO]: Sound engine started
+[22:39:20] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[22:39:21] [Client thread/INFO]: Created: 256x256 textures/particle-atlas
+[22:39:21] [Client thread/INFO]: Created: 256x256 textures/painting-atlas
+[22:39:21] [Client thread/INFO]: Created: 256x128 textures/mob_effect-atlas
+[22:39:21] [Realms Notification Availability checker #1/ERROR]: Realms error code: 400 message: 
+[22:39:24] [Client thread/INFO]: Stopping!
